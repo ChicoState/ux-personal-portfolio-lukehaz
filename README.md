@@ -1,6 +1,7 @@
 # UX Portfolio
 
 About me...
+Senior 
 
 ## UX Team Project
 
