@@ -8,4 +8,4 @@ My name Is Luke Hazelton. I'm a CS major who's defiantly still considering my op
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Calling and sound](j01/)
