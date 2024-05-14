@@ -1,7 +1,7 @@
 # Calling and sound
 I use discord for communicating and keeping up with friends. Discord's main feature is to join a call with one or many other people via the internet for free. But it has many additional features as well. These include text chats and screen sharing much like slack, but much easier to use due to its **Aesthetic and Minimalist Design**. As slack has alot of extra information and discord omits irrelevant information. 
 
-Screen sharing is an instance of **Matching between system and the real world** as conceptually it's like physically showing someone next to you your screen. This feature allows a user to stream whatever is on their computer screen to Discord allowing anyone in a call with them to view that content. This feature typically works great having great **Visibility of System Status**, giving the streaming a user a small window as a sample of what viewers are seeing.
+Screen sharing is an instance of **Matching between system and the real world**, as conceptually it's like physically showing someone next to you your screen. This feature allows a user to stream whatever is on their computer screen to Discord allowing anyone in a call with them to view that content. This feature typically works great having great **Visibility of System Status**, giving the streaming a user a small window as a sample of what viewers are seeing.
 
 <img width="706" alt="image" src="https://github.com/ChicoState/ux-personal-portfolio-lukehaz/assets/130188542/b11ae5c5-a591-4be4-97e3-93794fa84f65">
 
